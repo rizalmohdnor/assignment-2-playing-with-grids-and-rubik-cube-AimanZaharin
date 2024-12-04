@@ -2,9 +2,9 @@
 # Assignment 2: Play with a 2x2 Rubik Cube
 by 
 
-**NAME**:
+**NAME**: **NOR AIMAN ZAHARIN BIN NOOR AZWAN**
 
-**Matric ID**
+**Matric ID** **2115931**
 
 ## Objective
 
